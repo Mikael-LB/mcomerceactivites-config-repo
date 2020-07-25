@@ -1,0 +1,1 @@
+# mcomerceactivites-config-repo
